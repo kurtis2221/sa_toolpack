@@ -1,0 +1,20 @@
+A programot Kurtis írta (2012)
+
+A program azért készült, hogy szerkesszük vele a
+GTA: San Andreas-t. Elsõsorban a legfelhasználó-
+barátabb programot próbáltam összerakni, igaz
+nem teljessen az.
+
+Viszont ha ezt olvasod akkor valószínûleg
+sikerült beállítanod a játékhoz a programot, mert
+egyéb esetben nem tudod ezt a párbeszédpanelt
+megjeleníteni.
+
+Amúgy meg ha jól tudom nem nagyon írt magyar
+ember San Andreasra szerkesztõ programot, talán
+akad 1-2, de inkább modderek jellemzõek ebben
+az évben (2012).
+
+A program Visual C# 2008 Express Edition-ban
+íródott, .Net Keretrendszer 3.5-ös verziót
+használ.

@@ -1,0 +1,12 @@
+Program Written by Kurtis (2012)
+
+This program is made for editing GTA: San Andreas.
+Firstly I wanted to make an user-friend program,
+although it's not completly is.
+
+If you are reading this you might succeded setting
+this program to the game, because in other cases
+you can't display this dialog.
+
+This program is written in Visual C# 2008 Express Edition
+using .Net Framework 3.5
